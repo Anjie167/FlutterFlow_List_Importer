@@ -1,4 +1,4 @@
-# Node.js Firebase Firestore Importer
+# Flutterflow Firebase Firestore List<any> Importer
 
 This Node.js code allows you to import data from a CSV file into a Firestore collection using the Firebase Admin SDK. It's designed to be open source and reusable, allowing other users to integrate this functionality into their projects easily.
 
