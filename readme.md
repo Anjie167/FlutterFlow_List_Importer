@@ -44,7 +44,7 @@ Also ensure the CSV file is in this format:
    
   
    
-where `data` should be left as is 
+where `data` should be left as is, and
       `data 1 - data n` are the variables to be stored
 
 Feel free to modify and customize the code to suit your specific requirements and use cases.
