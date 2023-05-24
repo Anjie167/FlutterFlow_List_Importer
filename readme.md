@@ -37,14 +37,15 @@ This Node.js code allows you to import data from a CSV file into a Firestore col
 Ensure that you have properly secured your `config.json` file and any sensitive information, such as the Firebase service account key. Avoid committing sensitive information to version control systems.
    
 Also ensure the CSV file is in this format:
-<img width="502" alt="Screenshot 2023-05-24 at 1 40 20 PM" src="https://github.com/Anjie167/FlutterFlow_List_Importer/assets/92726417/b2dd43f4-7d71-418f-b42e-75818dc33768">
+<img width="166" alt="Screenshot 2023-05-24 at 1 48 06 PM" src="https://github.com/Anjie167/FlutterFlow_List_Importer/assets/92726417/209e9811-be5e-4d43-be23-331792586770">
    
    
    
    
+  
    
-   
-where `data` should be left as is
+where `data` should be left as is 
+      `data 1 - data n` are the variables to be stored
 
 Feel free to modify and customize the code to suit your specific requirements and use cases.
 
