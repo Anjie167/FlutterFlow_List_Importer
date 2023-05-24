@@ -38,6 +38,12 @@ Ensure that you have properly secured your `config.json` file and any sensitive 
    
 Also ensure the CSV file is in this format:
 <img width="502" alt="Screenshot 2023-05-24 at 1 40 20 PM" src="https://github.com/Anjie167/FlutterFlow_List_Importer/assets/92726417/b2dd43f4-7d71-418f-b42e-75818dc33768">
+   
+   
+   
+   
+   
+   
 where `data` should be left as is
 
 Feel free to modify and customize the code to suit your specific requirements and use cases.
