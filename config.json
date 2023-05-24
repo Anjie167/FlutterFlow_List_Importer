@@ -1,0 +1,7 @@
+{
+    "serviceAccountKey": "/Users/favouranjola/VSProjects/Flutterflow_ListUploader/serviceAccountKey.json",
+    "collection": "affirmations",
+    "docID": "test",
+    "FieldToUpdate": "affirmations",
+    "csvFilePath": "/Users/favouranjola/VSProjects/Flutterflow_ListUploader/affirmationsv1.csv"
+}
